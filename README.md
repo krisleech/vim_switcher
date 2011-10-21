@@ -6,14 +6,14 @@ Allows you to switch between multiple vimfiles using symlinks
 
     mkdir ~/Applications
     cd ~/Applications
-    git clone git://github.com/krisleech/vim_switcher.git vim
+    git clone git://github.com/krisleech/vim_switcher.git vimfiles
     cd vim
 
 ## Usage
 
 *clone vimfile repositories to the same directory as switch_vim.rb* 
 
-    cd ~/Applications/vim
+    cd ~/Applications/vimfiles
     git clone https://github.com/scrooloose/vimfiles.git scrooloose
     git clone https://github.com/codegram/vimfiles.git codegram
     git clone https://github.com/krisleech/vimfiles.git krisleech
