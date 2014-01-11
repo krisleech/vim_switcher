@@ -7,7 +7,6 @@ Allows you to switch between multiple vimfiles using symlinks
     mkdir ~/Applications
     cd ~/Applications
     git clone git://github.com/krisleech/vim_switcher.git vimfiles
-    cd vim
 
 ## Usage
 
